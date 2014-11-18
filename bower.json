@@ -1,7 +1,7 @@
 {
-  "name": "angular-showdown",
+  "name": "angular-showdown-converter",
   "version": "0.1.0",
-  "main": "./angular-showdown.js",
+  "main": "./angular-showdown-converter.js",
   "dependencies": {
   }
 }

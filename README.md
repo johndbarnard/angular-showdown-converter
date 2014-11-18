@@ -1,4 +1,4 @@
-#angular-showdown
+#angular-showdown-converter
 
 Inject showdown into Angular controllers and services
 
@@ -6,13 +6,13 @@ Inject showdown into Angular controllers and services
 ## Install
 
 ```
-bower install angular-showdown
+bower install angular-showdown-converter
 ```
 
 Add the script to your html page
 
 ```
-bower_components/angular-showdown/angular-showdown.js
+bower_components/angular-showdown-converter/angular-showdown-converter.js
 ```
 
 
